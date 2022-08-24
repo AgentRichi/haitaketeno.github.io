@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is a recording of my commitment to completing my own open source PhD in data science, in the hopes that it may serve as a curriculum for other independent researchers.
